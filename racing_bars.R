@@ -74,4 +74,6 @@ sss <- 666
 # ORTAK FETCH OLACAK MI
 ccc <- 888
 
+
 # GOKHAN2 PULL REQUEST
+
