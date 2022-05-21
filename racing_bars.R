@@ -59,3 +59,5 @@ my_plot <- dataset %>%
 
 animated_plot <- animate(my_plot, nframes = 260, fps = 10)
 anim_save("animated_plot.gif", animated_plot)
+
+# BU branch Hali
