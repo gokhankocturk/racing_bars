@@ -64,3 +64,6 @@ anim_save("animated_plot.gif", animated_plot)
 x <- 3
 y <- 4
 x + y
+
+# GITHUB uzerinden ekleme yapildi
+z <- 5
