@@ -64,3 +64,17 @@ anim_save("animated_plot.gif", animated_plot)
 x <- 3
 y <- 4
 x + y
+
+# GITHUB uzerinden ekleme yapildi
+z <- 5
+
+# GITHUB MERGE CONFLICT DENEMESI
+sss <- 666
+
+# ORTAK FETCH OLACAK MI
+ccc <- 888
+
+# OLMUYOR BIR TURLU
+c <- 7678
+
+# PULL REQUEST
