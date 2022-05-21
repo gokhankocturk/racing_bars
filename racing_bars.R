@@ -67,3 +67,6 @@ x + y
 
 # GITHUB uzerinden ekleme yapildi
 z <- 5
+
+# GITHUB MERGE CONFLICT DENEMESI
+sss <- 666
