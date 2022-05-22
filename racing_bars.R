@@ -74,7 +74,3 @@ sss <- 666
 # ORTAK FETCH OLACAK MI
 ccc <- 888
 
-# YINE BIR FETCH DENEMESI
-zzz <- 111
-
-# FEATURE 1
