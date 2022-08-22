@@ -91,3 +91,5 @@ zzz <- 111
 >>>>>>> gokhan
 
 # APPLE GITHUBTAN GONDERILEN
+
+# APPLE DONERILEN 2
