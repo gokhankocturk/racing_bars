@@ -58,41 +58,4 @@ my_plot <- dataset %>%
   ease_aes('cubic-in-out')
 
 animated_plot <- animate(my_plot, nframes = 260, fps = 10)
-anim_save("animated_plot.gif", animated_plot)
-
-# BU branch Hali
-x <- 3
-y <- 4
-x + y
-
-# GITHUB uzerinden ekleme yapildi
-z <- 5
-
-# GITHUB MERGE CONFLICT DENEMESI
-sss <- 666
-
-# ORTAK FETCH OLACAK MI
-ccc <- 888
-
-<<<<<<< HEAD
-# OLMUYOR BIR TURLU
-c <- 7678
-
-# PULL REQUEST
-# PULL REQUEST DENEMESI 2
-# PULL REQUEST SONUNCUSU
-# MASTER PULL REQUEST
-||||||| 7949d3a
-# YINE BIR FETCH DENEMESI
-zzz <- 111
-=======
-# GITHUB ACTION DENEME 1
-# GITHUB ACTION DENEME 2
->>>>>>> gokhan
-
-# APPLE GITHUBTAN GONDERILEN
-
-# APPLE DONERILEN 2
-
-# APPLEDAN GITHUBA 2f
-efvr
+# anim_save("animated_plot.gif", animated_plot)
